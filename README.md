@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Julia-ame
+- 👋 Hi, I’m @Shinjoroo
 - 👀 I’m interested in data science & projects
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
